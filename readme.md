@@ -11,3 +11,13 @@
 - 需搭配ImageFork使用，原始連結如下：<https://github.com/plsankar1996/ImageFork>
 - 啟動chrome時，搭配參數更易使用。（平常使用時不建議如此操作）
 - 設定教學：<https://superuser.com/a/1007887>
+
+# How to install
+
+- this is a userscript
+- tutor: <https://kutt.it/gIDxbm>
+
+# 如何安裝
+
+- 這是一個userscipt
+- 教學：<https://kutt.it/gIDxbm>
