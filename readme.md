@@ -14,12 +14,14 @@
 
 # How to install
 
-- install tampermonkey: <https://kutt.it/JUaTxP>
-- script release link: <https://github.com/scsa3/nyaa.si-extentions/releases>
 - userscript tutor: <https://kutt.it/gIDxbm>
+- install tampermonkey: <https://kutt.it/JUaTxP>
+- install ImageFork: <https://github.com/plsankar1996/ImageFork>
+- my script release link: <https://github.com/scsa3/nyaa.si-extentions/releases>
 
 # 如何安裝
 
-- 安裝tampermonkey: <https://kutt.it/JUaTxP>
-- 腳本下載連結：<https://github.com/scsa3/nyaa.si-extentions/releases>
 - userscript教學：<https://kutt.it/gIDxbm>
+- 安裝tampermonkey： <https://kutt.it/JUaTxP>
+- 安裝ImageFork： <https://github.com/plsankar1996/ImageFork>
+- 我的腳本下載連結：<https://github.com/scsa3/nyaa.si-extentions/releases>
