@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name            NYAA delinker
+// @description     Make link to image or iframe in sukebei.nyaa.si page. This script depend on ImageFork. Address is https://github.com/plsankar1996/ImageFork
 // @include         /sukebei\.nyaa\.si/
 // @include         /\.jpg/
 // @version         1.0.0
